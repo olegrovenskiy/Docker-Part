@@ -2,15 +2,15 @@
 
 ## Задача 1
 
-Новый образ:
+  Новый образ:
 
 
-  FROM archlinux:latest
+    FROM archlinux:latest
     
-  RUN pacman -Syy --noconfirm ponysay
+    RUN pacman -Syy --noconfirm ponysay
 
-  ENTRYPOINT ["/usr/bin/ponysay"]
-  CMD ["Hey, netology”]
+    ENTRYPOINT ["/usr/bin/ponysay"]
+    CMD ["Hey, netology”]
 
 результаты построения
 
