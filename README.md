@@ -51,7 +51,7 @@ https://hub.docker.com/repository/docker/olegrovenskiy/ponysays-01.v1
 
 https://c2n.me/4dxjUhS
 
-![докер лог](Docker-Part/2.1-log.png)
+![докер лог](https://github.com/olegrovenskiy/Docker-Part/blob/main/2.1-log.png)
 
     c:\Oleg\version1>docker logs jver1
     bash-4.2#
