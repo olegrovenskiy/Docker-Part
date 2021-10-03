@@ -123,6 +123,8 @@ https://hub.docker.com/repository/docker/olegrovenskiy/jenkins-am
 
 https://c2n.me/4dwZUG5
 
+![лог запуска](https://github.com/olegrovenskiy/Docker-Part/blob/main/2.2-log.png)
+
 Команда запуска сервера jenkins из контейнера
 
         root@23860013ccad:/# service jenkins start
