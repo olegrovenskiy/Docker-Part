@@ -145,9 +145,13 @@ https://c2n.me/4dwZXyC
 
 https://c2n.me/4dx0p45
 
+![init](https://github.com/olegrovenskiy/Docker-Part/blob/main/2.2-start2.png)
+
 И после запуска
 
 https://c2n.me/4dx0rHT
+
+![after](https://github.com/olegrovenskiy/Docker-Part/blob/main/2.2-start3.png)
 
 
     c:\Oleg\Jenkins-Ver2>docker logs ver2
