@@ -402,9 +402,13 @@ https://habr.com/ru/company/ruvds/blog/440656/
 
 https://c2n.me/4dx5zWs
 
+![network](https://github.com/olegrovenskiy/Docker-Part/blob/main/3-1.png)
+
 Скриншот вызова утилиты curl с успешным ответом
 
 https://c2n.me/4dx5Djc
+
+![curl](https://github.com/olegrovenskiy/Docker-Part/blob/main/3-2.png)
 
 
 
